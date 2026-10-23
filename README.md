@@ -5,7 +5,8 @@ SecLists is just a big collection of wordlists, so there are a few ways to get i
 **On Kali** it's in the official repos:
 
 ```bash
-sudo apt update && sudo apt install seclists
+sudo apt update
+sudo apt install seclists
 ```
 
 It lands in `/usr/share/seclists/`.
